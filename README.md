@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <br>
 <p align="center">⭕My Contact Information⭕</p>
 <p align="center">
-  <a href="url"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=wocl123@gmail.com"/></a>&nbsp
-  <a href="url"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blog&logoColor=white&link=https://ddilmo.tistory.com/"/></a>&nbsp
+  <a href="mailto:wocl123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+  <a href="https://ddilmo.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blog&logoColor=white"/></a>&nbsp
 </p>
