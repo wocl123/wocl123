@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align"center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JaeHoon`s Git&fontSize=45" /></p>
-<p> align="center">👋Hi There👋</p>
+<p align="center">👋Hi There👋</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wocl123&theme=dark" />
 </div>
